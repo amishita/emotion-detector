@@ -205,3 +205,13 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Dataset files - don't commit large datasets
+data/raw/
+data/processed/
+data/models/
+*.csv
+*.pkl
+*.npy
+*.h5
+*.hdf5
