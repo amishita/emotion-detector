@@ -9,3 +9,6 @@ This project uses the [FER2013 dataset](https://www.kaggle.com/datasets/msambare
 - Created `data_exploration.py` script
 - Printed count of images in each folder
 - Viewed the first image of every emotion folder
+
+**Day 2**
+
