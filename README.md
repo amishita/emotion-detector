@@ -6,9 +6,11 @@ This project uses the [FER2013 dataset](https://www.kaggle.com/datasets/msambare
 
 ## Progress
 **Day 1**
-- Created `data_exploration.py` script
+- Created `data_exploration.ipynb` notebook
 - Printed count of images in each folder
 - Viewed the first image of every emotion folder
 
 **Day 2**
-
+- Create `dataset.py` script
+- Processed and Normalized data
+- Stored process data as ".npz" file
